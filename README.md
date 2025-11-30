@@ -10,7 +10,7 @@ Me apasiona aprender nuevas tecnologías y construir soluciones simples, claras 
 
 ### 📁 Portafolio
 Puedes ver mis proyectos aquí:  
-👉 **[Mi Portafolio en GitHub Pages](https://PauliCHS.github.io/)**
+👉 **[Mi Portafolio en GitHub Pages](https://github.com/PauliCHS/Portafolio-Paulina)**
 
 ### 📫 Contacto
 - GitHub: https://github.com/PauliCHS  
