@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Paulina Huentel
 
-<!--
-**PauliCHS/PauliCHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniera Civil Industrial con enfoque en **análisis de datos**, **desarrollo web** y creación de proyectos funcionales con **Python, SQL y Django**.  
+Me apasiona aprender nuevas tecnologías y construir soluciones simples, claras y bien documentadas.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y herramientas
+- Python · SQL · Power BI  
+- Django · HTML · CSS · Bootstrap  
+- Git · GitHub · GitHub Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Portafolio
+Puedes ver mis proyectos aquí:  
+👉 **[Mi Portafolio en GitHub Pages](https://PauliCHS.github.io/)**
+
+### 📫 Contacto
+- GitHub: https://github.com/PauliCHS  
+- LinkedIn: https://www.linkedin.com/in/paulinahuentel/  
